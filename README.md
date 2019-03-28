@@ -28,6 +28,7 @@ pip3 install -U -r requirements.txt
 
 ### Authors
 
+* Guilherme Almeida
 * **Fernanda Scovino** - *Code maker* - [fernandascovino](https://github.com/fernandascovino)
 
 ### License
