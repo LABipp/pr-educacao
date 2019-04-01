@@ -8,7 +8,7 @@ Our goal is to **identify the singularities and issues in municipal schools of R
 
 ### Results
 
-To see the map with IDEB marks from aall municipal school in Rio, you cana open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
+To see the map with IDEB marks from all municipal school in Rio, you cana open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
 
 ### Project Organization
 
@@ -34,8 +34,8 @@ pip3 install -U -r requirements.txt
 
 ### Authors
 
-* Guilherme Almeida
 * **Fernanda Scovino** - *Code maker* - [fernandascovino](https://github.com/fernandascovino)
+* Guilherme Almeida - *Code maker* 
 
 ### License
 
@@ -45,5 +45,4 @@ pip3 install -U -r requirements.txt
 ### Acknowledgments
 
 * This README was adapted from [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* This repository was adapted from [*Fast Project Templates*](https://github.com/JoaoCarabetta/project-templates)
-
+* The structure of this repository was adapted from [*Fast Project Templates*](https://github.com/JoaoCarabetta/project-templates)
