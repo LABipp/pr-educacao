@@ -1,6 +1,14 @@
-## Project Title
+## Políticas Públicas de Educação e Regulação do Ensino Básico no Rio de Janeiro 
 
-One Paragraph of project description goes here.
+This project is being developed by [LAB.ipp](https://github.com/LABFGV), a organization of students form FGV-Rio who believes that, with great evidence, we can improve the public sector; and prof. Carlos Ragazzo, our partner of [Todos pela Educação](https://www.todospelaeducacao.org.br). 
+
+Our goal is to **identify the singularities and issues in municipal schools of Rio de Janeiro over the years**, crossing data from the oficial indicator of performance, [IDEB](http://portal.inep.gov.br/ideb), other socioconomics indicators and laws governing municipal education.
+
+### About the research
+
+### Results
+
+To see the map with IDEB marks from aall municipal school in Rio, you cana open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
 
 ### Project Organization
 
@@ -8,15 +16,13 @@ One Paragraph of project description goes here.
     ├── README.md                  <- The top-level README for developers using this project (also know as this file!)
     ├── data
     │   ├── output                 <- Output processed data
-    │   └── raw                    <- The original, immutable data dump.
+    │   ├── treated                <- Clean and treated data for analysis
+    │   └── raw                    <- The original, immutable data dump
     ├── code
     │   ├── notebooks              <- Jupyter notebooks
-    │   └── scripts                <- Python files
     │   └── requirements.txt       <- Packages used in the code
 
 ### Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 #### Prerequisites
 
@@ -33,7 +39,8 @@ pip3 install -U -r requirements.txt
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+* **Fernanda Scovino** - *Code maker* - [fernandascovino](https://github.com/fernandascovino)
+* Guilherme Almeida - *Code maker* 
 
 ### Acknowledgments
 
