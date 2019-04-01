@@ -22,6 +22,8 @@ To see the map with IDEB marks from all municipal school in Rio, you cana open t
     │   ├── notebooks              <- Jupyter notebooks
     │   └── requirements.txt       <- Packages used in the code
 
+- The `data` folder because the data can be to heavy. Instead, we have a `data.zip` compressed file of the folder, thaat you can open on your local :)
+
 ### Getting Started
 
 #### Prerequisites
