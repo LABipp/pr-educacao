@@ -1,14 +1,14 @@
 ## Políticas Públicas de Educação e Regulação do Ensino Básico no Rio de Janeiro 
 
+### About the research
+
 This project is being developed by [LAB.ipp](https://github.com/LABFGV), a organization of students form FGV-Rio who believes that, with great evidence, we can improve the public sector; and prof. Carlos Ragazzo, our partner of [Todos pela Educação](https://www.todospelaeducacao.org.br). 
 
 Our goal is to **identify the singularities and issues in municipal schools of Rio de Janeiro over the years**, crossing data from the oficial indicator of performance, [IDEB](http://portal.inep.gov.br/ideb), other socioconomics indicators and laws governing municipal education.
 
-### About the research
-
 ### Results
 
-To see the map with IDEB marks from all municipal school in Rio, you cana open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
+To see the map with IDEB marks from all municipal schools in Rio, you can open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
 
 ### Project Organization
 
@@ -22,13 +22,13 @@ To see the map with IDEB marks from all municipal school in Rio, you cana open t
     │   ├── notebooks              <- Jupyter notebooks
     │   └── requirements.txt       <- Packages used in the code
 
-- The `data` folder because the data can be to heavy. Instead, we have a `data.zip` compressed file of the folder, thaat you can open on your local :)
+- The `data` folder was ommited because it can be to heavy. Instead, we have a `data.zip` compressed file of the folder, that you can open on your local :)
 
 ### Getting Started
 
 #### Prerequisites
 
-You need to have the packages on `requirements.txt` installed. To do that, open the terminal and run:
+To run the notebbooks, you need to have the packages on `requirements.txt` installed. To do that, open the terminal and run:
 
 ```
 pip3 install -U -r requirements.txt
@@ -41,8 +41,7 @@ pip3 install -U -r requirements.txt
 
 ### License
 
-* **Fernanda Scovino** - *Code maker* - [fernandascovino](https://github.com/fernandascovino)
-* Guilherme Almeida - *Code maker* 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Acknowledgments
 
