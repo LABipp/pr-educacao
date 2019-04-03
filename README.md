@@ -2,13 +2,18 @@
 
 ### About the research
 
-This project is being developed by [LAB.ipp](https://github.com/LABFGV), a organization of students form FGV-Rio who believes that, with great evidence, we can improve the public sector; and prof. Carlos Ragazzo, our partner of [Todos pela Educação](https://www.todospelaeducacao.org.br). 
+This project is being developed by [LAB.ipp](https://github.com/LABFGV), a organization of students form FGV-Rio who believes that, with great evidence, we can improve the public sector; and prof. Carlos Ragazzo, our partner of [Todos pela Educação](https://www.todospelaeducacao.org.br).
 
 Our goal is to **identify the singularities and issues in municipal schools of Rio de Janeiro over the years**, crossing data from the oficial indicator of performance, [IDEB](http://portal.inep.gov.br/ideb), other socioconomics indicators and laws governing municipal education.
 
 ### Results
 
 To see the map with IDEB marks from all municipal schools in Rio, you can open the file `ideb_kepler.json` on [kepler.gl](https://kepler.gl) (the data goes from 2005 until 2017).
+
+### Data sources
+
+- Shapefile: [Escolas Municipais - GeoOpenData - Cidade do Rio de Janeiro](http://hub.arcgis.com/datasets/PCRJ::escolas-municipais);
+- IDEB data: [Resultados - INEP: Planilhas do Ideb > Escolas > Ensino Fundamental Regular - Anos Iniciais](http://portal.inep.gov.br/web/guest/educacao-basica/ideb/resultados).
 
 ### Project Organization
 
@@ -37,7 +42,7 @@ pip3 install -U -r requirements.txt
 ### Authors
 
 * **Fernanda Scovino** - *Code maker* - [fernandascovino](https://github.com/fernandascovino)
-* Guilherme Almeida - *Code maker* 
+* **Guilherme Almeida** - *Code maker* 
 
 ### License
 
