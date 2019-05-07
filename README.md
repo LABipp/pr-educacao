@@ -14,6 +14,7 @@ To see the map with IDEB marks from all municipal schools in Rio, you can open t
 
 - Shapefile: [Escolas Municipais - GeoOpenData - Cidade do Rio de Janeiro](http://hub.arcgis.com/datasets/PCRJ::escolas-municipais);
 - IDEB data: [Resultados - INEP: Planilhas do Ideb > Escolas > Ensino Fundamental Regular - Anos Iniciais](http://portal.inep.gov.br/web/guest/educacao-basica/ideb/resultados).
+- Indicator of school managment complexity: [Indicadores Educacionais > Complexidade daa Gestão Escolar](http://inep.gov.br/web/guest/indicadores-educacionais).
 
 ### Project Organization
 
